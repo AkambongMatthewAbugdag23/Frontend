@@ -1,16 +1,23 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+* {
+   font-family:Outfit;
+   background-color:Grayish blue: hsl(220, 15%, 55%);
+}
+p{
+   font-size:15px;
+}
+.attribution { 
+   font-size: 11px; 
+   text-align: center; 
+}
+.attribution a { 
+   color: hsl(228, 45%, 44%); 
+}
 @media(min-width:375px),(max-width:1440px) {
-    * {
-        font-family:Outfit;
-       background-color:Grayish blue: hsl(220, 15%, 55%);
-    }
-    p{
-        font-size:15px;
-    }
+    
     .attribution { 
         font-size: 11px; 
         text-align: center; }
     .attribution a { 
         color: hsl(228, 45%, 44%); }
 }
+
