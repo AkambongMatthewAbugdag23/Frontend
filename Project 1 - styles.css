@@ -1,0 +1,15 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+@media(min-width:375px),(max-width:1440px) {
+    * {
+        font-family:Outfit;
+    }
+    p{
+        font-size:15px;
+    }
+    .attribution { 
+        font-size: 11px; 
+        text-align: center; }
+    .attribution a { 
+        color: hsl(228, 45%, 44%); }
+}
