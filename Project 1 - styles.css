@@ -3,6 +3,7 @@
 @media(min-width:375px),(max-width:1440px) {
     * {
         font-family:Outfit;
+       background-color:Grayish blue: hsl(220, 15%, 55%);
     }
     p{
         font-size:15px;
